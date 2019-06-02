@@ -11,11 +11,15 @@ A personal script for initializing a new Windows computer with just-install/just
 
 # Caveats
 
-### Arduino
+#### Arduino
 
 Arduino might prompt Windows to display driver warnings. You need to allow them for installation to continue.
 
-### PotPlayer
+#### PotPlayer
 
 PotPlayer will have a pop-up during installation that does not require user input but is annoying nevertheless.
+
+#### VeraCrypt
+
+VeraCrypt does not have a silent option (dammit) so you need to click through the installer.
 
