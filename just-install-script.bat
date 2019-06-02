@@ -44,6 +44,6 @@ for %%a in (%list%) do (
   echo/
 )
 
-:: Complese
+:: Complete
 cls
 echo Installation complete!
