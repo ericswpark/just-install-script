@@ -47,3 +47,5 @@ for %%a in (%list%) do (
 :: Complete
 cls
 echo Installation complete!
+echo/
+pause
