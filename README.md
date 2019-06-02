@@ -14,3 +14,8 @@ A personal script for initializing a new Windows computer with just-install/just
 ### Arduino
 
 Arduino might prompt Windows to display driver warnings. You need to allow them for installation to continue.
+
+### PotPlayer
+
+PotPlayer will have a pop-up during installation that does not require user input but is annoying nevertheless.
+
