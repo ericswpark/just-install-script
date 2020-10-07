@@ -1,5 +1,7 @@
-# just-install-script
-A personal script for initializing a new Windows computer with just-install/just-install
+# Deprecated
+
+[Use the new windows_setup repository](https://github.com/ericswpark/windows_setup/) that works with chocolatey as the package manager.
+
 
 # How to use this script
 1. Download
